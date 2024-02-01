@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div style={{ height: "calc(100vh - 10rem)" }} className='py-[1.5rem] px-[2rem] bg-slate-800 w-full '>
-      <div className='flex h-full flex-row'>\
+      <div className='flex h-full flex-row'>
         <SideBar />
         <div className='flex-1 bg-white h-full'>
           <div className='p-4 h-full overflow-hidden'>
